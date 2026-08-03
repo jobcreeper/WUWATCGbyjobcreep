@@ -11,7 +11,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Rover (M)",
+    "name": "RoverM_C0",
     "type": "Character",
     "cost": 0,
     "Level": 0,
@@ -30,7 +30,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Rover (M)",
+    "name": "RoverM_C1",
     "type": "Character",
     "cost": 0,
     "Level": "1",
@@ -49,7 +49,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Rover (M)",
+    "name": "RoverM_C2",
     "type": "Character",
     "cost": 0,
     "Level": "2",
@@ -68,7 +68,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Rover (F)",
+    "name": "RoverF_C0",
     "type": "Character",
     "cost": 0,
     "Level": 0,
@@ -87,7 +87,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Rover (F)",
+    "name": "RoverF_C1",
     "type": "Character",
     "cost": 0,
     "Level": "1",
@@ -106,7 +106,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Rover (F)",
+    "name": "RoverF_C2",
     "type": "Character",
     "cost": 0,
     "Level": "2",
@@ -125,7 +125,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Sanhua",
+    "name": "Sanhua_C0",
     "type": "Character",
     "cost": 0,
     "Level": 0,
@@ -144,7 +144,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Sanhua",
+    "name": "Sanhua_C1",
     "type": "Character",
     "cost": 0,
     "Level": "1",
@@ -163,7 +163,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Sanhua",
+    "name": "Sanhua_C2",
     "type": "Character",
     "cost": 0,
     "Level": "2",
@@ -182,7 +182,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Jinshi",
+    "name": "Jinshi_C0",
     "type": "Character",
     "cost": 0,
     "Level": 0,
@@ -201,7 +201,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Jinshi",
+    "name": "Jinshi_C1",
     "type": "Character",
     "cost": 0,
     "Level": "1",
@@ -220,7 +220,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Jinshi",
+    "name": "Jinshi_C2",
     "type": "Character",
     "cost": 0,
     "Level": "2",
@@ -239,7 +239,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Yangyang",
+    "name": "Yangyang_C0",
     "type": "Character",
     "cost": 0,
     "Level": 0,
@@ -258,7 +258,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Yangyang",
+    "name": "Yangyang_C1",
     "type": "Action",
     "cost": 0,
     "Level": "1",
@@ -277,7 +277,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Yangyang",
+    "name": "Yangyang_C2",
     "type": "Character",
     "cost": 0,
     "Level": "2",
@@ -296,7 +296,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Chixia",
+    "name": "Chixia_C0",
     "type": "Character",
     "cost": 0,
     "Level": 0,
@@ -315,7 +315,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Chixia",
+    "name": "Chixia_C1",
     "type": "Character",
     "cost": 0,
     "Level": "1",
@@ -334,7 +334,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Chixia",
+    "name": "Chixia_C2",
     "type": "Character",
     "cost": 0,
     "Level": "2",
