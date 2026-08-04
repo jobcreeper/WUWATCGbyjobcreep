@@ -53,7 +53,7 @@
         "customSections": [
           "Action Zone",
           "Concerto Zone",
-          "Character Deck",
+          "Character_Deck",
           "Back1",
           "Leader",
           "Back2"
@@ -75,7 +75,7 @@
                   }
                 },
                 {
-                  "section": "Character Deck",
+                  "section": "Character_Deck",
                   "style": {
                     "width": "10vh"
                   }
@@ -122,7 +122,7 @@
           ]
         },
         "categoriesAlreadyOnBoard": [
-          "Character Deck->Character Deck"
+          "Character Deck->Character_Deck"
         ],
         "autoPlayFromHand": {},
         "autoPlayFromStack": {},
@@ -280,22 +280,6 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Character Deck": {
-            "title": "Character Deck",
-            "isHidden": "yes",
-            "height": "SMALL",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
           "Back1": {
             "title": "Back1",
             "isHidden": "no",
@@ -337,6 +321,22 @@
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
             "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Character_Deck": {
+            "title": "Character_Deck",
+            "isHidden": "yes",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Character Deck",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
