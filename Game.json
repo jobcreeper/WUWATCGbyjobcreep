@@ -124,8 +124,12 @@
         "categoriesAlreadyOnBoard": [
           "Character->Character_Deck"
         ],
-        "autoPlayFromHand": {},
-        "autoPlayFromStack": {},
+        "autoPlayFromHand": {
+          "Action": "Action_Zone"
+        },
+        "autoPlayFromStack": {
+          "Character": "GROUP"
+        },
         "sectionsDict": {
           "Hand": {
             "isDefaultSection": true,
@@ -250,13 +254,13 @@
           },
           "Back1": {
             "title": "Back1",
-            "isHidden": "yes",
+            "isHidden": "no",
             "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
-            "displayedTitle": "",
+            "displayedTitle": "Back",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
@@ -266,7 +270,7 @@
           },
           "Leader": {
             "title": "Leader",
-            "isHidden": "yes",
+            "isHidden": "no",
             "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
@@ -282,13 +286,13 @@
           },
           "Back2": {
             "title": "Back2",
-            "isHidden": "yes",
+            "isHidden": "no",
             "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
-            "displayedTitle": "",
+            "displayedTitle": "Back",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
