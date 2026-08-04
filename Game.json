@@ -23,7 +23,7 @@
         "title": "Default",
         "gameplay": "Default",
         "customCategories": [
-          "Character deck"
+          "Character"
         ]
       }
     ]
@@ -122,7 +122,7 @@
           ]
         },
         "categoriesAlreadyOnBoard": [
-          "Character deck->Character_Deck"
+          "Character->Character_Deck"
         ],
         "autoPlayFromHand": {},
         "autoPlayFromStack": {},
