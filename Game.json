@@ -110,15 +110,15 @@
                   "style": false,
                   "content": [
                     {
-                      "section": "Leader",
+                      "section": "Back1",
                       "style": {
                         "width": "10vh"
                       }
                     },
                     {
-                      "section": "Back1",
+                      "section": "Leader",
                       "style": {
-                        "width": "10vh"
+                        "width": "20vh"
                       }
                     },
                     {
