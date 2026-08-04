@@ -300,7 +300,7 @@
             "title": "Character_Deck",
             "isHidden": "yes",
             "height": "SMALL",
-            "alignment": "START",
+            "alignment": "DECK",
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": false,
