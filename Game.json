@@ -300,7 +300,7 @@
             "title": "Character_Deck",
             "isHidden": "yes",
             "height": "SMALL",
-            "alignment": "CENTER",
+            "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": false,
@@ -308,8 +308,8 @@
             "noQuickActions": true,
             "enterTapped": false,
             "enterSpun": false,
-            "isGroupForbidden": true,
-            "keepTappedNewTurn": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false
           },
           "Action_Zone": {
