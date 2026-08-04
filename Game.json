@@ -254,7 +254,7 @@
           },
           "Back1": {
             "title": "Back1",
-            "isHidden": "no",
+            "isHidden": "yes",
             "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
@@ -270,7 +270,7 @@
           },
           "Leader": {
             "title": "Leader",
-            "isHidden": "no",
+            "isHidden": "yes",
             "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
@@ -286,7 +286,7 @@
           },
           "Back2": {
             "title": "Back2",
-            "isHidden": "no",
+            "isHidden": "yes",
             "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
