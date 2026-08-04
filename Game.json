@@ -23,7 +23,7 @@
         "title": "Default",
         "gameplay": "Default",
         "customCategories": [
-          "Character Deck"
+          "Character deck"
         ]
       }
     ]
@@ -51,8 +51,8 @@
       "hideFacedDownCards": false,
       "sections": {
         "customSections": [
-          "Action Zone",
-          "Concerto Zone",
+          "Action_Zone",
+          "Concerto_Zone",
           "Character_Deck",
           "Back1",
           "Leader",
@@ -69,7 +69,7 @@
               },
               "content": [
                 {
-                  "section": "Concerto Zone",
+                  "section": "Concerto_Zone",
                   "style": {
                     "width": "22vh"
                   }
@@ -88,7 +88,7 @@
               "style": false,
               "content": [
                 {
-                  "section": "Action Zone",
+                  "section": "Action_Zone",
                   "style": false
                 },
                 {
@@ -122,7 +122,7 @@
           ]
         },
         "categoriesAlreadyOnBoard": [
-          "Character Deck->Character_Deck"
+          "Character deck->Character_Deck"
         ],
         "autoPlayFromHand": {},
         "autoPlayFromStack": {},
@@ -248,38 +248,6 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Action Zone": {
-            "title": "Action Zone",
-            "isHidden": "yes",
-            "height": "SMALL",
-            "alignment": "START",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Concerto Zone": {
-            "title": "Concerto Zone",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "START",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
           "Back1": {
             "title": "Back1",
             "isHidden": "no",
@@ -335,8 +303,40 @@
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
+            "isHorizontalAllowed": false,
             "displayedTitle": "Character Deck",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": true,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Action_Zone": {
+            "title": "Action_Zone",
+            "isHidden": "yes",
+            "height": "SMALL",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Action Zone",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Concerto_Zone": {
+            "title": "Concerto_Zone",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Concerto Zone",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
