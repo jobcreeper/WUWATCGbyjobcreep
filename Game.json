@@ -266,7 +266,7 @@
           },
           "Back1": {
             "title": "Back1",
-            "isHidden": "yes",
+            "isHidden": "no",
             "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
@@ -282,8 +282,8 @@
           },
           "Leader": {
             "title": "Leader",
-            "isHidden": "yes",
-            "height": "MEDIUM",
+            "isHidden": "no",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -298,7 +298,7 @@
           },
           "Back2": {
             "title": "Back2",
-            "isHidden": "yes",
+            "isHidden": "no",
             "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
@@ -363,8 +363,8 @@
           "Combo_Zone": {
             "title": "Combo_Zone",
             "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "START",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
