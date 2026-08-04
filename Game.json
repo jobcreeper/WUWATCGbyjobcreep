@@ -71,13 +71,13 @@
               "content": [
                 {
                   "section": "Concerto_Zone",
-                  "style": {
+                  "style": {"background-image": "url('https://jobcreeper.github.io/WUWATCGbyjobcreep/Concerto Zone.jpg')",
                     "width": "22vh"
                   }
                 },
                 {
                   "section": "Character_Deck",
-                  "style": {
+                  "style": {"background-image": "url('https://jobcreeper.github.io/WUWATCGbyjobcreep/Character Deck.jpg')",
                     "width": "10vh"
                   }
                 }
@@ -94,13 +94,14 @@
                   "content": [
                     {
                       "section": "Action_Zone",
-                      "style": {
+                      "style": {"background-image": "url('https://jobcreeper.github.io/WUWATCGbyjobcreep/Action Zone.jpg')",
                         "width": "10vh"
                       }
                     },
                     {
                       "section": "Combo_Zone",
-                      "style": false
+                      "style": {"background-image": "url('https://jobcreeper.github.io/WUWATCGbyjobcreep/Action Zone.jpg')"
+                      }
                     }
                   ],
                   "isSymetricalForOpponents": false
@@ -111,19 +112,25 @@
                   "content": [
                     {
                       "section": "Back1",
-                      "style": {
+                      "style": {{"background-image": "url('https://jobcreeper.github.io/WUWATCGbyjobcreep/Back.jpg')",
+                        "width": "10vh"
+                      }
                         "width": "10vh"
                       }
                     },
                     {
                       "section": "Leader",
-                      "style": {
+                      "style": {{"background-image": "url('https://jobcreeper.github.io/WUWATCGbyjobcreep/Leader.jpg')",
+                        "width": "10vh"
+                      }
                         "width": "20vh"
                       }
                     },
                     {
                       "section": "Back2",
-                      "style": {
+                      "style": {{"background-image": "url('https://jobcreeper.github.io/WUWATCGbyjobcreep/Back2.jpg')",
+                        "width": "10vh"
+                      }
                         "width": "10vh"
                       }
                     }
