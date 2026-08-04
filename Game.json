@@ -1,0 +1,66 @@
+{
+  "name": "WuwaTCG by jobcreep",
+  "menuBackgroundImage": "https://jobcreeper.github.io/WUWATCGbyjobcreep/GameImage.jpg",
+  "defaultRessources": {
+    "backgrounds": [
+      "https://jobcreeper.github.io/WUWATCGbyjobcreep/Board.jpg"
+    ],
+    "decksUrl": ""
+  },
+  "customHelp": "",
+  "cardRotation": 90,
+  "cards": {
+    "dataUrl": "https://jobcreeper.github.io/WUWATCGbyjobcreep/WuwaTCGCardList.json",
+    "cardBack": "https://jobcreeper.github.io/WUWATCGbyjobcreep/Back.jpg",
+    "cardBackColor": "#C18264"
+  },
+  "deckBuilding": {
+    "mainFilters": [
+      "type"
+    ],
+    "formats": [
+      {
+        "title": "Default",
+        "gameplay": "Default",
+        "customCategories": [
+          "Character"
+        ]
+      }
+    ]
+  },
+  "gameplay": {
+    "Default": {
+      "mulligan": {
+        "info": "",
+        "startingHandSize": "5",
+        "drawNewHand": false,
+        "putSelectionAtBottom": true,
+        "drawNewSelectedCards": false
+      },
+      "newTurn": {
+        "drawOnStart": false,
+        "sharedTurn": false,
+        "firstPlayerTokenName": "",
+        "drawPerTurn": "2"
+      },
+      "defaultNotes": "",
+      "tokens": [],
+      "countersStartingValues": [
+        "20"
+      ],
+      "hideFacedDownCards": false,
+      "sections": {
+        "customSections": [],
+        "layout": {
+          "direction": "row",
+          "isSymetricalForOpponents": false,
+          "content": []
+        },
+        "categoriesAlreadyOnBoard": [],
+        "autoPlayFromHand": {},
+        "autoPlayFromStack": {},
+        "sectionsDict": {}
+      }
+    }
+  }
+}
