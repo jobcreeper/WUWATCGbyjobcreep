@@ -584,7 +584,7 @@
     "Color": ""
   },
   "Yangyang_A0G": {
-    "id": "Yangyang_A0R2",
+    "id": "Yangyang_A0G",
     "isToken": false,
     "face": {
       "front": {
@@ -615,7 +615,7 @@
       }
     },
     "name": "Chixia_A0R",
-    "type": false,
+    "type": "Action",
     "cost": 0,
     "Level": 0,
     "Cost": "",
@@ -653,7 +653,7 @@
       }
     },
     "name": "RoverF_A0B",
-    "type": false,
+    "type": "Action",
     "cost": 0,
     "Level": 0,
     "Cost": "",
