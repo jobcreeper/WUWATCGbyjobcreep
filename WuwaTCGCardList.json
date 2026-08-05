@@ -924,5 +924,62 @@
     "Level": "2",
     "Cost": "",
     "Color": ""
+  },
+  "Jinshi_A0R2": {
+    "id": "Jinshi_A0R2",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Action",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/Jinshi_A0R2.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jinshi_A0R2",
+    "type": "Action",
+    "cost": 0,
+    "Level": 0,
+    "Cost": "",
+    "Color": ""
+  },
+  "Jinshi_A3R": {
+    "id": "Jinshi_A3R",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Action",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/Jinshi_A3R.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jinshi_A3R",
+    "type": "Action",
+    "cost": 0,
+    "Level": 0,
+    "Cost": "",
+    "Color": ""
+  },
+  "Sanhua_A0R2": {
+    "id": "Sanhua_A0R2",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Action",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/Sanhua_A0R2.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sanhua_A0R2",
+    "type": "Action",
+    "cost": 0,
+    "Level": 0,
+    "Cost": "",
+    "Color": ""
   }
 }
