@@ -300,7 +300,6 @@
     "type": "Action",
     "cost": 0,
     "Level": 0,
-    "Cost": "0",
     "Color": "Red"
   },
   "RoverM_A0R2": {
@@ -357,7 +356,6 @@
     "type": "Action",
     "cost": 0,
     "Level": 0,
-    "Cost": "2",
     "Color": ""
   },
   "RoverM_A0G": {
@@ -395,7 +393,6 @@
     "type": "Action",
     "cost": 0,
     "Level": "0",
-    "Cost": "1",
     "Color": ""
   },
   "Sanhua_A0B": {
@@ -433,7 +430,6 @@
     "type": "Action",
     "cost": 0,
     "Level": "0",
-    "Cost": "1",
     "Color": "Red"
   },
   "Jinshi_A1G": {
@@ -452,7 +448,6 @@
     "type": "Action",
     "cost": 0,
     "Level": 0,
-    "Cost": "1",
     "Color": ""
   },
   "Jinshi_A0R": {
@@ -600,7 +595,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Yangyang_A0R2",
+    "name": "Yangyang_A0G",
     "type": "Action",
     "cost": 0,
     "Level": 0,
@@ -639,7 +634,7 @@
       }
     },
     "name": "Yangyang_A0R2",
-    "type": false,
+    "type": "Action",
     "cost": 0,
     "Level": 0,
     "Cost": "",
