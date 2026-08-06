@@ -1,0 +1,250 @@
+{
+  "title": "Starter",
+  "id": "c1d9d4e1-f746-4ba5-b0ab-cdfe9752d884",
+  "cardCount": 49,
+  "createdAt": "2026-08-03T08:40:16.584Z",
+  "lastModifiedAt": "2026-08-05T12:00:55.391Z",
+  "game": "WuwaTCG by jobcreep",
+  "format": [
+    "Default"
+  ],
+  "deckList": {
+    "categoriesOrder": [
+      "Character",
+      "Action"
+    ],
+    "Character": [
+      {
+        "count": 1,
+        "id": "RoverF_C0"
+      },
+      {
+        "count": 1,
+        "id": "RoverF_C1"
+      },
+      {
+        "count": 1,
+        "id": "RoverF_C2"
+      },
+      {
+        "count": 1,
+        "id": "Yangyang_C0"
+      },
+      {
+        "count": 1,
+        "id": "Yangyang_C1"
+      },
+      {
+        "count": 1,
+        "id": "Yangyang_C2"
+      },
+      {
+        "count": 1,
+        "id": "Chixia_C0"
+      },
+      {
+        "count": 1,
+        "id": "Chixia_C1"
+      },
+      {
+        "count": 1,
+        "id": "Chixia_C2"
+      }
+    ],
+    "Action": [
+      {
+        "count": 2,
+        "id": "RoverF_A0R"
+      },
+      {
+        "count": 2,
+        "id": "RoverF_A0R2"
+      },
+      {
+        "count": 2,
+        "id": "Yangyang_A0R"
+      },
+      {
+        "count": 3,
+        "id": "Chixia_A0B"
+      },
+      {
+        "count": 2,
+        "id": "Chixia_A0R2"
+      },
+      {
+        "count": 3,
+        "id": "Yangyang_A0B"
+      },
+      {
+        "count": 2,
+        "id": "Chixia_A3R"
+      },
+      {
+        "count": 3,
+        "id": "RoverF_A1G"
+      },
+      {
+        "count": 2,
+        "id": "RoverF_A1R"
+      },
+      {
+        "count": 3,
+        "id": "RoverF_A0G"
+      },
+      {
+        "count": 2,
+        "id": "RoverF_A3R"
+      },
+      {
+        "count": 2,
+        "id": "Yangyang_A2R"
+      },
+      {
+        "count": 2,
+        "id": "Chixia_A1R"
+      },
+      {
+        "count": 3,
+        "id": "RoverF_A0B"
+      },
+      {
+        "count": 2,
+        "id": "Yangyang_A0R2"
+      },
+      {
+        "count": 2,
+        "id": "Chixia_A0R"
+      },
+      {
+        "count": 3,
+        "id": "Yangyang_A0G"
+      }
+    ]
+  }
+}
+{
+  "title": "Stater2",
+  "id": "be02721c-2ec4-4766-833c-742420e5f927",
+  "cardCount": 49,
+  "createdAt": "2026-08-03T08:24:31.801Z",
+  "lastModifiedAt": "2026-08-05T15:03:53.108Z",
+  "game": "WuwaTCG by jobcreep",
+  "format": [
+    "Default"
+  ],
+  "deckList": {
+    "categoriesOrder": [
+      "Character",
+      "Action"
+    ],
+    "Character": [
+      {
+        "count": 1,
+        "id": "RoverM_C0"
+      },
+      {
+        "count": 1,
+        "id": "RoverM_C1"
+      },
+      {
+        "count": 1,
+        "id": "RoverM_C2"
+      },
+      {
+        "count": 1,
+        "id": "Jinshi_C0"
+      },
+      {
+        "count": 1,
+        "id": "Jinshi_C1"
+      },
+      {
+        "count": 1,
+        "id": "Jinshi_C2"
+      },
+      {
+        "count": 1,
+        "id": "Sanhua_C0"
+      },
+      {
+        "count": 1,
+        "id": "Sanhua_C1"
+      },
+      {
+        "count": 1,
+        "id": "Sanhua_C2"
+      }
+    ],
+    "Action": [
+      {
+        "count": 2,
+        "id": "RoverM_A0R"
+      },
+      {
+        "count": 3,
+        "id": "RoverM_A0R2"
+      },
+      {
+        "count": 2,
+        "id": "RoverM_A0B"
+      },
+      {
+        "count": 2,
+        "id": "RoverM_A2R"
+      },
+      {
+        "count": 3,
+        "id": "RoverM_A0G"
+      },
+      {
+        "count": 3,
+        "id": "RoverM_A1G"
+      },
+      {
+        "count": 2,
+        "id": "Sanhua_A0B"
+      },
+      {
+        "count": 2,
+        "id": "Sanhua_A1R"
+      },
+      {
+        "count": 2,
+        "id": "Jinshi_A1G"
+      },
+      {
+        "count": 2,
+        "id": "Jinshi_A0R"
+      },
+      {
+        "count": 2,
+        "id": "Sanhua_A0R"
+      },
+      {
+        "count": 3,
+        "id": "Jinshi_A0B"
+      },
+      {
+        "count": 3,
+        "id": "Sanhua_A2R"
+      },
+      {
+        "count": 2,
+        "id": "RoverM_A1R"
+      },
+      {
+        "count": 3,
+        "id": "Jinshi_A0R2"
+      },
+      {
+        "count": 2,
+        "id": "Jinshi_A3R"
+      },
+      {
+        "count": 2,
+        "id": "Sanhua_A0R2"
+      }
+    ]
+  }
+}
