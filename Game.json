@@ -5,7 +5,7 @@
     "backgrounds": [
       "https://jobcreeper.github.io/WUWATCGbyjobcreep/Board.jpg"
     ],
-    "decksUrl": ""
+    "decksUrl": "https://jobcreeper.github.io/WUWATCGbyjobcreep/StarterDeck.json"
   },
   "customHelp": "",
   "cardRotation": 90,
@@ -100,8 +100,7 @@
                     },
                     {
                       "section": "Combo_Zone",
-                      "style": {
-                      }
+                      "style": {}
                     }
                   ],
                   "isSymetricalForOpponents": false
