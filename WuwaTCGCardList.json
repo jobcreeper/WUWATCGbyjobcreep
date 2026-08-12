@@ -299,8 +299,11 @@
     "name": "RoverM_A0R",
     "type": "Action",
     "cost": 0,
-    "Level": 0,
-    "Color": "Red"
+    "Level": "",
+    "Color": "Red",
+    "Cost": "0",
+    "Speed": "0",
+    "Attack": "0"
   },
   "RoverM_A0R2": {
     "id": "RoverM_A0R2",
@@ -317,9 +320,11 @@
     "name": "RoverM_A0R2",
     "type": "Action",
     "cost": 0,
-    "Level": 0,
+    "Level": "",
     "Cost": 0,
-    "Color": ""
+    "Color": "Red",
+    "Speed": "8",
+    "Attack": "1"
   },
   "RoverM_A0B": {
     "id": "RoverM_A0B",
@@ -336,9 +341,11 @@
     "name": "RoverM_A0B",
     "type": "Action",
     "cost": 0,
-    "Level": 0,
+    "Level": "",
     "Cost": 0,
-    "Color": ""
+    "Color": "Blue",
+    "Speed": "",
+    "Attack": "0"
   },
   "RoverM_A2R": {
     "id": "RoverM_A2R",
@@ -356,7 +363,10 @@
     "type": "Action",
     "cost": 0,
     "Level": 0,
-    "Color": ""
+    "Color": "Red",
+    "Cost": "2",
+    "Speed": "13",
+    "Attack": "5"
   },
   "RoverM_A0G": {
     "id": "RoverM_A0G",
@@ -373,9 +383,11 @@
     "name": "RoverM_A0G",
     "type": "Action",
     "cost": 0,
-    "Level": 0,
+    "Level": "",
     "Cost": 0,
-    "Color": ""
+    "Color": "Green",
+    "Speed": "5",
+    "Attack": "0"
   },
   "RoverM_A1G": {
     "id": "RoverM_A1G",
@@ -392,8 +404,11 @@
     "name": "RoverM_A1G",
     "type": "Action",
     "cost": 0,
-    "Level": "0",
-    "Color": ""
+    "Level": "",
+    "Color": "Green",
+    "Cost": "1",
+    "Speed": "8",
+    "Attack": "0"
   },
   "Sanhua_A0B": {
     "id": "Sanhua_A0B",
@@ -412,7 +427,9 @@
     "cost": 0,
     "Level": 0,
     "Cost": 0,
-    "Color": ""
+    "Color": "Blue",
+    "Speed": "",
+    "Attack": "0"
   },
   "Sanhua_A1R": {
     "id": "Sanhua_A1R",
@@ -429,8 +446,11 @@
     "name": "Sanhua_A1R",
     "type": "Action",
     "cost": 0,
-    "Level": "0",
-    "Color": "Red"
+    "Level": "",
+    "Color": "Red",
+    "Cost": "1",
+    "Speed": "9",
+    "Attack": "3"
   },
   "Jinshi_A1G": {
     "id": "Jinshi_A1G",
@@ -447,8 +467,11 @@
     "name": "Jinshi_A1G",
     "type": "Action",
     "cost": 0,
-    "Level": 0,
-    "Color": ""
+    "Level": "",
+    "Color": "Green",
+    "Cost": "1",
+    "Speed": "13",
+    "Attack": "0"
   },
   "Jinshi_A0R": {
     "id": "Jinshi_A0R",
@@ -465,9 +488,11 @@
     "name": "Jinshi_A0R",
     "type": "Action",
     "cost": 0,
-    "Level": 0,
+    "Level": "",
     "Cost": 0,
-    "Color": ""
+    "Color": "Red",
+    "Speed": "0",
+    "Attack": "0"
   },
   "Sanhua_A0R": {
     "id": "Sanhua_A0R",
@@ -484,9 +509,11 @@
     "name": "Sanhua_A0R",
     "type": "Action",
     "cost": 0,
-    "Level": 0,
-    "Cost": "",
-    "Color": ""
+    "Level": "",
+    "Cost": "0",
+    "Color": "Red",
+    "Speed": "0",
+    "Attack": "0"
   },
   "Jinshi_A0B": {
     "id": "Jinshi_A0B",
@@ -503,9 +530,10 @@
     "name": "Jinshi_A0B",
     "type": "Action",
     "cost": 0,
-    "Level": 0,
-    "Cost": "",
-    "Color": ""
+    "Level": "",
+    "Cost": "0",
+    "Color": "Blue",
+    "Attack": "3"
   },
   "Sanhua_A2R": {
     "id": "Sanhua_A2R",
@@ -522,9 +550,11 @@
     "name": "Sahua_A2R",
     "type": "Action",
     "cost": 0,
-    "Level": 0,
-    "Cost": "",
-    "Color": ""
+    "Level": "",
+    "Cost": "2",
+    "Color": "Red",
+    "Speed": "13",
+    "Attack": "4"
   },
   "RoverF_A0R": {
     "id": "RoverF_A0R",
@@ -541,9 +571,11 @@
     "name": "RoverF_A0R",
     "type": "Action",
     "cost": 0,
-    "Level": 0,
-    "Cost": "",
-    "Color": ""
+    "Level": "",
+    "Cost": "0",
+    "Color": "Red",
+    "Speed": "0",
+    "Attack": "0"
   },
   "RoverF_A0R2": {
     "id": "RoverF_A0R2",
@@ -560,9 +592,11 @@
     "name": "RoverF_A0R2",
     "type": "Action",
     "cost": 0,
-    "Level": 0,
-    "Cost": "",
-    "Color": ""
+    "Level": "",
+    "Cost": "0",
+    "Color": "Red",
+    "Speed": "8",
+    "Attack": "1"
   },
   "Yangyang_A0R": {
     "id": "Yangyang_A0R",
@@ -579,9 +613,11 @@
     "name": "Yangyang_A0R",
     "type": "Action",
     "cost": 0,
-    "Level": 0,
-    "Cost": "",
-    "Color": ""
+    "Level": "",
+    "Cost": "0",
+    "Color": "Red",
+    "Speed": "0",
+    "Attack": "0"
   },
   "Yangyang_A0G": {
     "id": "Yangyang_A0G",
@@ -598,9 +634,11 @@
     "name": "Yangyang_A0G",
     "type": "Action",
     "cost": 0,
-    "Level": 0,
-    "Cost": "",
-    "Color": ""
+    "Level": "",
+    "Cost": "0",
+    "Color": "Green",
+    "Speed": "7",
+    "Attack": "0"
   },
   "Chixia_A0R": {
     "id": "Chixia_A0R",
@@ -617,9 +655,11 @@
     "name": "Chixia_A0R",
     "type": "Action",
     "cost": 0,
-    "Level": 0,
-    "Cost": "",
-    "Color": ""
+    "Level": "",
+    "Cost": "0",
+    "Color": "Red",
+    "Speed": "0",
+    "Attack": "0"
   },
   "Yangyang_A0R2": {
     "id": "Yangyang_A0R2",
@@ -636,9 +676,11 @@
     "name": "Yangyang_A0R2",
     "type": "Action",
     "cost": 0,
-    "Level": 0,
-    "Cost": "",
-    "Color": ""
+    "Level": "",
+    "Cost": "0",
+    "Color": "Red",
+    "Speed": "8",
+    "Attack": "1"
   },
   "RoverF_A0B": {
     "id": "RoverF_A0B",
@@ -655,9 +697,10 @@
     "name": "RoverF_A0B",
     "type": "Action",
     "cost": 0,
-    "Level": 0,
-    "Cost": "",
-    "Color": ""
+    "Level": "",
+    "Cost": "0",
+    "Color": "Blue",
+    "Attack": "0"
   },
   "Chixia_A0B": {
     "id": "Chixia_A0B",
@@ -674,9 +717,10 @@
     "name": "Chixia_A0B",
     "type": "Action",
     "cost": 0,
-    "Level": 0,
-    "Cost": "",
-    "Color": ""
+    "Level": "",
+    "Cost": "0",
+    "Color": "Blue",
+    "Attack": "3"
   },
   "Chixia_A0R2": {
     "id": "Chixia_A0R2",
@@ -693,9 +737,11 @@
     "name": "Chixia_A0R2",
     "type": "Action",
     "cost": 0,
-    "Level": 0,
-    "Cost": "",
-    "Color": ""
+    "Level": "",
+    "Cost": "0",
+    "Color": "Red",
+    "Speed": "6",
+    "Attack": "1"
   },
   "Yangyang_A0B": {
     "id": "Yangyang_A0B",
@@ -712,9 +758,10 @@
     "name": "Yangyang_A0B",
     "type": "Action",
     "cost": 0,
-    "Level": 0,
-    "Cost": "",
-    "Color": ""
+    "Level": "",
+    "Cost": "0",
+    "Color": "Blue",
+    "Attack": "0"
   },
   "Chixia_A3R": {
     "id": "Chixia_A3R",
@@ -731,9 +778,11 @@
     "name": "Chixia_A3R",
     "type": "Action",
     "cost": 0,
-    "Level": 0,
-    "Cost": "",
-    "Color": ""
+    "Level": "",
+    "Cost": "3",
+    "Color": "Red",
+    "Speed": "12",
+    "Attack": "7"
   },
   "RoverF_A1G": {
     "id": "RoverF_A1G",
@@ -750,9 +799,11 @@
     "name": "RoverF_A1G",
     "type": "Action",
     "cost": 0,
-    "Level": 0,
-    "Cost": "",
-    "Color": ""
+    "Level": "",
+    "Cost": "1",
+    "Color": "Red",
+    "Speed": "8",
+    "Attack": "0"
   },
   "RoverF_A1R": {
     "id": "RoverF_A1R",
@@ -769,9 +820,11 @@
     "name": "RoverF_A1R",
     "type": "Action",
     "cost": 0,
-    "Level": 0,
-    "Cost": "",
-    "Color": ""
+    "Level": "",
+    "Cost": "1",
+    "Color": "Red",
+    "Speed": "16",
+    "Attack": "1"
   },
   "RoverF_A0G": {
     "id": "RoverF_A0G",
@@ -788,9 +841,11 @@
     "name": "RoverF_A0G",
     "type": "Action",
     "cost": 0,
-    "Level": 0,
-    "Cost": "",
-    "Color": ""
+    "Level": "",
+    "Cost": "0",
+    "Color": "Green",
+    "Speed": "5",
+    "Attack": "0"
   },
   "RoverF_A3R": {
     "id": "RoverF_A3R",
@@ -807,9 +862,11 @@
     "name": "RoverF_A3R",
     "type": "Action",
     "cost": 0,
-    "Level": 0,
-    "Cost": "",
-    "Color": ""
+    "Level": "",
+    "Cost": "3",
+    "Color": "Red",
+    "Speed": "14",
+    "Attack": "5"
   },
   "Yangyang_A2R": {
     "id": "Yangyang_A2R",
@@ -826,9 +883,11 @@
     "name": "Yangyang_A2R",
     "type": "Action",
     "cost": 0,
-    "Level": 0,
-    "Cost": "",
-    "Color": ""
+    "Level": "",
+    "Cost": "2",
+    "Color": "Red",
+    "Speed": "13",
+    "Attack": "4"
   },
   "Chixia_A1R": {
     "id": "Chixia_A1R",
@@ -845,9 +904,11 @@
     "name": "Chixia_A1R",
     "type": "Action",
     "cost": 0,
-    "Level": 0,
-    "Cost": "",
-    "Color": ""
+    "Level": "",
+    "Cost": "1",
+    "Color": "Red",
+    "Speed": "8",
+    "Attack": "2"
   },
   "RoverM_A1R": {
     "id": "RoverM_A1R",
@@ -864,9 +925,11 @@
     "name": "RoverM_A1R",
     "type": "Action",
     "cost": 0,
-    "Level": 0,
-    "Cost": "",
-    "Color": ""
+    "Level": "",
+    "Cost": "1",
+    "Color": "Red",
+    "Speed": "13",
+    "Attack": "3"
   },
   "Sanhua_C0": {
     "id": "Sanhua_C0",
@@ -940,9 +1003,11 @@
     "name": "Jinshi_A0R2",
     "type": "Action",
     "cost": 0,
-    "Level": 0,
-    "Cost": "",
-    "Color": ""
+    "Level": "",
+    "Cost": "0",
+    "Color": "Red",
+    "Speed": "7",
+    "Attack": "1"
   },
   "Jinshi_A3R": {
     "id": "Jinshi_A3R",
@@ -959,9 +1024,11 @@
     "name": "Jinshi_A3R",
     "type": "Action",
     "cost": 0,
-    "Level": 0,
-    "Cost": "",
-    "Color": ""
+    "Level": "",
+    "Cost": "3",
+    "Color": "Red",
+    "Speed": "13",
+    "Attack": "5"
   },
   "Sanhua_A0R2": {
     "id": "Sanhua_A0R2",
@@ -978,8 +1045,10 @@
     "name": "Sanhua_A0R2",
     "type": "Action",
     "cost": 0,
-    "Level": 0,
-    "Cost": "",
-    "Color": ""
+    "Level": "",
+    "Cost": "0",
+    "Color": "Red",
+    "Speed": "8",
+    "Attack": "1"
   }
 }
