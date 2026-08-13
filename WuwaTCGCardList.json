@@ -1050,5 +1050,68 @@
     "Color": "Red",
     "Speed": "8",
     "Attack": "1"
+  },
+  "Camellya_C0": {
+    "id": "Camellya_C0",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/Camellya_C0.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Camellya_C0",
+    "type": "Character",
+    "cost": 0,
+    "Level": 0,
+    "Cost": "",
+    "Color": "",
+    "Speed": "",
+    "Attack": ""
+  },
+  "Shorekeeper_C0": {
+    "id": "Shorekeeper_C0",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/Shorekeeper_C0.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shorekeeper_C0",
+    "type": "Character",
+    "cost": 0,
+    "Level": 0,
+    "Cost": "",
+    "Color": "",
+    "Speed": "",
+    "Attack": ""
+  },
+  "Encore_C0": {
+    "id": "Encore_C0",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/Encore_C0.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Encore_C0",
+    "type": "Character",
+    "cost": 0,
+    "Level": 0,
+    "Cost": "",
+    "Color": "",
+    "Speed": "",
+    "Attack": ""
   }
 }
