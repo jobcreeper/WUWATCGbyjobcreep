@@ -9,6 +9,13 @@
         "cost": "",
         "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/RoverM_C0.jpg",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CharacterBack.jpg",
+        "isHorizontal": false
       }
     },
     "name": "RoverM_C0",
@@ -27,6 +34,13 @@
         "type": "Character",
         "cost": 0,
         "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/RoverM_C1.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CharacterBack.jpg",
         "isHorizontal": false
       }
     },
@@ -47,6 +61,13 @@
         "cost": 0,
         "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/RoverM_C2.jpg",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CharacterBack.jpg",
+        "isHorizontal": false
       }
     },
     "name": "RoverM_C2",
@@ -65,6 +86,13 @@
         "type": "Character",
         "cost": 0,
         "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/RoverF_C0.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CharacterBack.jpg",
         "isHorizontal": false
       }
     },
@@ -85,6 +113,13 @@
         "cost": 0,
         "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/RoverF_C1.jpg",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CharacterBack.jpg",
+        "isHorizontal": false
       }
     },
     "name": "RoverF_C1",
@@ -103,6 +138,13 @@
         "type": "Character",
         "cost": 0,
         "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/RoverF_C2.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CharacterBack.jpg",
         "isHorizontal": false
       }
     },
@@ -123,6 +165,13 @@
         "cost": 0,
         "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/Jinshi_C0.jpg",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CharacterBack.jpg",
+        "isHorizontal": false
       }
     },
     "name": "Jinshi_C0",
@@ -141,6 +190,13 @@
         "type": "Character",
         "cost": 0,
         "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/Jinshi_C1.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CharacterBack.jpg",
         "isHorizontal": false
       }
     },
@@ -161,6 +217,13 @@
         "cost": 0,
         "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/Jinshi_C2.jpg",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CharacterBack.jpg",
+        "isHorizontal": false
       }
     },
     "name": "Jinshi_C2",
@@ -179,6 +242,13 @@
         "type": "Character",
         "cost": 0,
         "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/Yangyang_C0.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CharacterBack.jpg",
         "isHorizontal": false
       }
     },
@@ -199,6 +269,13 @@
         "cost": 0,
         "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/Yangyang_C1.jpg",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CharacterBack.jpg",
+        "isHorizontal": false
       }
     },
     "name": "Yangyang_C1",
@@ -217,6 +294,13 @@
         "type": "Character",
         "cost": 0,
         "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/Yangyang_C2.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CharacterBack.jpg",
         "isHorizontal": false
       }
     },
@@ -237,6 +321,13 @@
         "cost": 0,
         "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/Chixia_C0.jpg",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CharacterBack.jpg",
+        "isHorizontal": false
       }
     },
     "name": "Chixia_C0",
@@ -256,6 +347,13 @@
         "cost": 0,
         "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/Chixia_C1.jpg",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CharacterBack.jpg",
+        "isHorizontal": false
       }
     },
     "name": "Chixia_C1",
@@ -274,6 +372,13 @@
         "type": "Character",
         "cost": 0,
         "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/Chixia_C2.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CharacterBack.jpg",
         "isHorizontal": false
       }
     },
@@ -1061,6 +1166,13 @@
         "cost": 0,
         "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/Camellya_C0.jpg",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CharacterBack.jpg",
+        "isHorizontal": false
       }
     },
     "name": "Camellya_C0",
@@ -1082,6 +1194,13 @@
         "cost": 0,
         "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/Shorekeeper_C0.jpg",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CharacterBack.jpg",
+        "isHorizontal": false
       }
     },
     "name": "Shorekeeper_C0",
@@ -1102,6 +1221,13 @@
         "type": "Character",
         "cost": 0,
         "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/Encore_C0.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CharacterBack.jpg",
         "isHorizontal": false
       }
     },
