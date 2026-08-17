@@ -1342,5 +1342,26 @@
     "Color": "Red",
     "Speed": "0",
     "Attack": "3"
+  },  
+  "RoverF_A0R3": {
+    "id": "RoverF_A0R3",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Action",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/RoverF_A0R3.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "RoverF_A0R3",
+    "type": "Action",
+    "cost": 0,
+    "Level": "",
+    "Cost": "0",
+    "Color": "Red",
+    "Speed": "6",
+    "Attack": "1"
   }
 }
