@@ -1239,5 +1239,108 @@
     "Color": "",
     "Speed": "",
     "Attack": ""
+  },
+  "Encore_C1": {
+    "id": "Encore_C1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/Encore_C1.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CharacterBack.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Encore_C1",
+    "type": "Character",
+    "cost": 0,
+    "Level": 1,
+    "Cost": "",
+    "Color": "",
+    "Speed": "",
+    "Attack": ""
+  },"Encore_C12": {
+    "id": "Encore_C12",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/Encore_C12.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CharacterBack.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Encore_C1",
+    "type": "Character",
+    "cost": 0,
+    "Level": 1,
+    "Cost": "",
+    "Color": "",
+    "Speed": "",
+    "Attack": ""
+  },"Encore_C2": {
+    "id": "Encore_C2",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/Encore_C2.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CharacterBack.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Encore_C2",
+    "type": "Character",
+    "cost": 0,
+    "Level": 2,
+    "Cost": "",
+    "Color": "",
+    "Speed": "",
+    "Attack": ""
+  },
+  "Encore_BP01-061": {
+    "id": "Encore_BP01-061",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Action",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/Encore_BP01-061.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Encore_BP01-061",
+    "type": "Action",
+    "cost": 0,
+    "Level": "",
+    "Cost": "0",
+    "Color": "Red",
+    "Speed": "0",
+    "Attack": "3"
   }
 }
