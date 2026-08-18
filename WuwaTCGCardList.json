@@ -1363,5 +1363,117 @@
     "Color": "Red",
     "Speed": "6",
     "Attack": "1"
+  },
+  "Sanhua_C12": {
+    "id": "Sanhua_C12",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/Sanhua_C12.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CharacterBack.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sanhua_C12",
+    "type": "Character",
+    "cost": 0,
+    "Level": 1,
+    "Cost": "",
+    "Color": "",
+    "Speed": "",
+    "Attack": ""
+  },
+  "Jinshi_C12": {
+    "id": "Jinshi_C12",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/Jinshi_C12.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CharacterBack.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jinshi_C12",
+    "type": "Character",
+    "cost": 0,
+    "Level": 1,
+    "Cost": "",
+    "Color": "",
+    "Speed": "",
+    "Attack": ""
+  },
+  "Chixia_C12": {
+    "id": "Chixia_C12",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/Chixia_C12.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CharacterBack.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chixia_C12",
+    "type": "Character",
+    "cost": 0,
+    "Level": 1,
+    "Cost": "",
+    "Color": "",
+    "Speed": "",
+    "Attack": ""
+  },
+  "Yangyang_C12": {
+    "id": "Yangyang_C12",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/Yangyang_C12.jpg",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CharacterBack.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Yangyang_C12",
+    "type": "Character",
+    "cost": 0,
+    "Level": 1,
+    "Cost": "",
+    "Color": "",
+    "Speed": "",
+    "Attack": ""
   }
 }
