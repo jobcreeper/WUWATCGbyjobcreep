@@ -112,7 +112,7 @@
                     {
                       "section": "Back1",
                       "style": {
-                        "width": "10vh"
+                        "width": "20vh"
                       }
                     },
                     {
@@ -124,7 +124,7 @@
                     {
                       "section": "Back2",
                       "style": {
-                        "width": "10vh"
+                        "width": "20vh"
                       }
                     }
                   ],
