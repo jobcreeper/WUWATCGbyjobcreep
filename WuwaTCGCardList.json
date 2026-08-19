@@ -1052,7 +1052,7 @@
     "Attack": "1"
   },
   "Camellya_C0": {
-    "id": "BP01-005",
+    "id": "Camellya_C0",
     "isToken": false,
     "face": {
       "front": {
@@ -1302,7 +1302,7 @@
     "Attack": ""
   },
   "Camellya_C2": {
-    "id": "BP01-002",
+    "id": "Camellya_C2",
     "isToken": false,
     "face": {
       "front": {
@@ -1323,7 +1323,7 @@
     "Attack": ""
   },
   "Camellya_C1": {
-    "id": "BP01-003",
+    "id": "Camellya_C1",
     "isToken": false,
     "face": {
       "front": {
@@ -1344,7 +1344,7 @@
     "Attack": ""
   },
   "Camellya_C12": {
-    "id": "BP01-004",
+    "id": "Camellya_C12",
     "isToken": false,
     "face": {
       "front": {
