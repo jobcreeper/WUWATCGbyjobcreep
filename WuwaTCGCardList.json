@@ -1051,7 +1051,7 @@
     "Speed": "8",
     "Attack": "1"
   },
-  "Camellya": {
+  "Camellya_C0": {
     "id": "BP01-005",
     "isToken": false,
     "face": {
@@ -1063,7 +1063,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Camellya",
+    "name": "Camellya_C0",
     "type": "Character",
     "cost": 0,
     "Level": 0,
@@ -1301,7 +1301,7 @@
     "Speed": "",
     "Attack": ""
   },
-  "Camellya": {
+  "Camellya_C2": {
     "id": "BP01-002",
     "isToken": false,
     "face": {
@@ -1313,7 +1313,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Camellya",
+    "name": "Camellya_C2",
     "type": "Character",
     "cost": 0,
     "Level": 2,
@@ -1322,7 +1322,7 @@
     "Speed": "",
     "Attack": ""
   },
-  "Camellya": {
+  "Camellya_C1": {
     "id": "BP01-003",
     "isToken": false,
     "face": {
@@ -1334,7 +1334,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Camellya",
+    "name": "Camellya_C1",
     "type": "Character",
     "cost": 0,
     "Level": 1,
@@ -1343,7 +1343,7 @@
     "Speed": "",
     "Attack": ""
   },
-  "Camellya": {
+  "Camellya_C12": {
     "id": "BP01-004",
     "isToken": false,
     "face": {
@@ -1355,7 +1355,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Camellya",
+    "name": "Camellya_C12",
     "type": "Character",
     "cost": 0,
     "Level": 1,
