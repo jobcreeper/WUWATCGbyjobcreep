@@ -1051,19 +1051,19 @@
     "Speed": "8",
     "Attack": "1"
   },
-  "Camellya_C0": {
-    "id": "Camellya_C0",
+  "Camellya": {
+    "id": "BP01-005",
     "isToken": false,
     "face": {
       "front": {
         "name": "",
         "type": "Character",
         "cost": 0,
-        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/Camellya_C0.jpg",
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/BP01-005.jpg",
         "isHorizontal": false
       }
     },
-    "name": "Camellya_C0",
+    "name": "Camellya",
     "type": "Character",
     "cost": 0,
     "Level": 0,
@@ -1293,6 +1293,69 @@
       }
     },
     "name": "Yangyang_C12",
+    "type": "Character",
+    "cost": 0,
+    "Level": 1,
+    "Cost": "",
+    "Color": "",
+    "Speed": "",
+    "Attack": ""
+  },
+  "Camellya": {
+    "id": "BP01-002",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/BP01-002.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Camellya",
+    "type": "Character",
+    "cost": 0,
+    "Level": 2,
+    "Cost": "",
+    "Color": "",
+    "Speed": "",
+    "Attack": ""
+  },
+  "Camellya": {
+    "id": "BP01-003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/BP01-003.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Camellya",
+    "type": "Character",
+    "cost": 0,
+    "Level": 1,
+    "Cost": "",
+    "Color": "",
+    "Speed": "",
+    "Attack": ""
+  },
+  "Camellya": {
+    "id": "BP01-004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/BP01-004.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Camellya",
     "type": "Character",
     "cost": 0,
     "Level": 1,
