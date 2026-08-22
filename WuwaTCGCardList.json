@@ -1447,5 +1447,26 @@
     "Color": "",
     "Speed": "",
     "Attack": ""
+  },  
+  "Shorekeeper_BP01-058": {
+    "id": "Shorekeeper_BP01-058",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Action",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-058.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shorekeeper_BP01-058",
+    "type": "Action",
+    "cost": 0,
+    "Level": "",
+    "Cost": "0",
+    "Color": "Green",
+    "Speed": "5",
+    "Attack": "0"
   }
 }
