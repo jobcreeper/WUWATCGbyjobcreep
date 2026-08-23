@@ -1468,5 +1468,26 @@
     "Color": "Green",
     "Speed": "5",
     "Attack": "0"
+  },
+  "Yangyang_BP01-022": {
+    "id": "Yangyang_BP01-022",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-022.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Yangyang_BP01-022",
+    "type": "Character",
+    "cost": 0,
+    "Level": 2,
+    "Cost": "",
+    "Color": "",
+    "Speed": "",
+    "Attack": ""
   }
 }
