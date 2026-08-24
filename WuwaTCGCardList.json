@@ -1489,5 +1489,26 @@
     "Color": "",
     "Speed": "",
     "Attack": ""
+  },  
+  "Yangyang_BP01-070": {
+    "id": "Yangyang_BP01-070",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Action",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-070.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Yangyang_BP01-070",
+    "type": "Action",
+    "cost": 0,
+    "Level": "",
+    "Cost": "1",
+    "Color": "Red",
+    "Speed": "14",
+    "Attack": "2"
   }
 }
