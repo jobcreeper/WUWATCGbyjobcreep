@@ -1531,5 +1531,26 @@
     "Color": "",
     "Speed": "",
     "Attack": ""
+  },  
+  "Chixia_BP01-072": {
+    "id": "Chixia_BP01-072",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Action",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-072.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chixia_BP01-072",
+    "type": "Action",
+    "cost": 0,
+    "Level": "",
+    "Cost": "1",
+    "Color": "Red",
+    "Speed": "12",
+    "Attack": "2"
   }
 }
