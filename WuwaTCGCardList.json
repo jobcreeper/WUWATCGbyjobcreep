@@ -1573,5 +1573,26 @@
     "Color": "",
     "Speed": "",
     "Attack": ""
+  },  
+  "Sanhua_BP01-076": {
+    "id": "Sanhua_BP01-076",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Action",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-076.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sanhua_BP01-076",
+    "type": "Action",
+    "cost": 0,
+    "Level": "",
+    "Cost": "1",
+    "Color": "Blue",
+    "Speed": "",
+    "Attack": "0"
   }
 }
