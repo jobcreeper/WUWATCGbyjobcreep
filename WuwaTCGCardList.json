@@ -1594,5 +1594,26 @@
     "Color": "Blue",
     "Speed": "",
     "Attack": "0"
+  },
+  "Jinshi_BP01-028": {
+    "id": "Jinshi_BP01-028",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-028.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jinshi_BP01-028",
+    "type": "Character",
+    "cost": 0,
+    "Level": 2,
+    "Cost": "",
+    "Color": "",
+    "Speed": "",
+    "Attack": ""
   }
 }
