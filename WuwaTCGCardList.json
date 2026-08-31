@@ -1615,5 +1615,110 @@
     "Color": "",
     "Speed": "",
     "Attack": ""
+  },  
+  "Jinshi_BP01-074": {
+    "id": "Jinshi_BP01-074",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Action",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-074.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jinshi_BP01-074",
+    "type": "Action",
+    "cost": 0,
+    "Level": "",
+    "Cost": "1",
+    "Color": "Red",
+    "Speed": "11",
+    "Attack": "0"
+  },  
+  "Jinshi_BP01-073": {
+    "id": "Jinshi_BP01-073",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Action",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-073.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jinshi_BP01-073",
+    "type": "Action",
+    "cost": 0,
+    "Level": "",
+    "Cost": "1",
+    "Color": "Red",
+    "Speed": "13",
+    "Attack": "1"
+  },  
+  "Encore_BP01-059": {
+    "id": "Encore_BP01-059",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Action",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-059.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Encore_BP01-059",
+    "type": "Action",
+    "cost": 0,
+    "Level": "",
+    "Cost": "0",
+    "Color": "Red",
+    "Speed": "5",
+    "Attack": "1"
+  },  
+  "Camellya_BP01-050": {
+    "id": "Camellya_BP01-050",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Action",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-050.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Camellya_BP01-050",
+    "type": "Action",
+    "cost": 0,
+    "Level": "",
+    "Cost": "0",
+    "Color": "Red",
+    "Speed": "6",
+    "Attack": "1"
+  },  
+  "Shorekeeper_BP01-053": {
+    "id": "Shorekeeper_BP01-053",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Action",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-053.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shorekeeper_BP01-053",
+    "type": "Action",
+    "cost": 0,
+    "Level": "",
+    "Cost": "0",
+    "Color": "Blue",
+    "Speed": "",
+    "Attack": "0"
   }
 }
