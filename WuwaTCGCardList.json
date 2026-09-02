@@ -1889,19 +1889,19 @@
     "Speed": "",
     "Attack": ""
   },
-  "Encore_C22": {
-    "id": "Encore_C22",
+  "Encore_BP01-011": {
+    "id": "Encore_BP01-011",
     "isToken": false,
     "face": {
       "front": {
         "name": "",
         "type": "Character",
         "cost": 0,
-        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/Encore_C22.jpg",
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-011.jpg",
         "isHorizontal": false
       }
     },
-    "name": "Encore_C22",
+    "name": "Encore_BP01-011",
     "type": "Character",
     "cost": 0,
     "Level": 2,
