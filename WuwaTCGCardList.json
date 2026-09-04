@@ -1826,19 +1826,19 @@
     "Speed": "13",
     "Attack": "5"
   },  
-  "Encore_A2R": {
-    "id": "Encore_A2R",
+  "Encore_BP01-062": {
+    "id": "Encore_BP01-062",
     "isToken": false,
     "face": {
       "front": {
         "name": "",
         "type": "Action",
         "cost": 0,
-        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/Encore_A2R.jpg",
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-062.jpg",
         "isHorizontal": false
       }
     },
-    "name": "Encore_A2R",
+    "name": "Encore_BP01-062",
     "type": "Action",
     "cost": 0,
     "Level": "",
