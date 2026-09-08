@@ -1784,19 +1784,19 @@
     "Speed": "0",
     "Attack": "0"
   },  
-  "Shorekeeper_A1G": {
-    "id": "Shorekeeper_A1G",
+  "Shorekeeper_BP01-057": {
+    "id": "Shorekeeper_BP01-057",
     "isToken": false,
     "face": {
       "front": {
         "name": "",
         "type": "Action",
         "cost": 0,
-        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/Shorekeeper_A1G.jpg",
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-057.jpg",
         "isHorizontal": false
       }
     },
-    "name": "Shorekeeper_A1G",
+    "name": "Shorekeeper_BP01-057",
     "type": "Action",
     "cost": 0,
     "Level": "",
@@ -1805,19 +1805,19 @@
     "Speed": "11",
     "Attack": "0"
   },  
-  "Camellya_A2R": {
-    "id": "Camellya_A2R",
+  "Camellya_BP01-049": {
+    "id": "Camellya_BP01-049",
     "isToken": false,
     "face": {
       "front": {
         "name": "",
         "type": "Action",
         "cost": 0,
-        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/Camellya_A2R.jpg",
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-049.jpg",
         "isHorizontal": false
       }
     },
-    "name": "Camellya_A2R",
+    "name": "Camellya_BP01-049",
     "type": "Action",
     "cost": 0,
     "Level": "",
@@ -1847,19 +1847,19 @@
     "Speed": "11",
     "Attack": "3"
   },
-  "Camellya_C22": {
-    "id": "Camellya_C22",
+  "Camellya_BP01-001": {
+    "id": "Camellya_BP01-001",
     "isToken": false,
     "face": {
       "front": {
         "name": "",
         "type": "Character",
         "cost": 0,
-        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/Camellya_C22.jpg",
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-001.jpg",
         "isHorizontal": false
       }
     },
-    "name": "Camellya_C22",
+    "name": "Camellya_BP01-001",
     "type": "Character",
     "cost": 0,
     "Level": 2,
@@ -1868,19 +1868,19 @@
     "Speed": "",
     "Attack": ""
   },
-  "Shorekeeper_C22": {
-    "id": "Camellya_C22",
+  "Shorekeeper_BP01-006": {
+    "id": "Shorekeeper_BP01-006",
     "isToken": false,
     "face": {
       "front": {
         "name": "",
         "type": "Character",
         "cost": 0,
-        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/Shorekeeper_C22.jpg",
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-006.jpg",
         "isHorizontal": false
       }
     },
-    "name": "Shorekeeper_C22",
+    "name": "Shorekeeper_BP01-006",
     "type": "Character",
     "cost": 0,
     "Level": 2,
