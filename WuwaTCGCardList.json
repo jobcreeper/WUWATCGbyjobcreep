@@ -1993,5 +1993,89 @@
     "Color": "Red",
     "Speed": "5",
     "Attack": "2"
+  },  
+  "Gulpuff_BP01-036": {
+    "id": "Gulpuff_BP01-036",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Action",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-036.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gulpuff_BP01-036",
+    "type": "Action",
+    "cost": 0,
+    "Level": "",
+    "Cost": "0",
+    "Color": "Red",
+    "Speed": "5",
+    "Attack": "1"
+  },  
+  "Lampylumen Myriad_BP01-037": {
+    "id": "Lampylumen Myriad_BP01-037",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Action",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-037.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lampylumen Myriad_BP01-037",
+    "type": "Action",
+    "cost": 0,
+    "Level": "",
+    "Cost": "1",
+    "Color": "Red",
+    "Speed": "5",
+    "Attack": "2"
+  },  
+  "Chirpuff_BP01-038": {
+    "id": "Chirpuff_BP01-038",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Action",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-038.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chirpuff_BP01-038",
+    "type": "Action",
+    "cost": 0,
+    "Level": "",
+    "Cost": "0",
+    "Color": "Red",
+    "Speed": "5",
+    "Attack": "1"
+  },  
+  "Feilian Beringal_BP01-039": {
+    "id": "Feilian Beringal_BP01-039",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Action",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-039.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Feilian Beringal_BP01-039",
+    "type": "Action",
+    "cost": 0,
+    "Level": "",
+    "Cost": "1",
+    "Color": "Red",
+    "Speed": "5",
+    "Attack": "2"
   }
 }
