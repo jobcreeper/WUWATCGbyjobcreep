@@ -2077,5 +2077,26 @@
     "Color": "Red",
     "Speed": "5",
     "Attack": "2"
+  },  
+  "Roseshroom_BP01-040": {
+    "id": "Roseshroom_BP01-040",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Action",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-040.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Roseshroom_BP01-040",
+    "type": "Action",
+    "cost": 0,
+    "Level": "",
+    "Cost": "0",
+    "Color": "Red",
+    "Speed": "5",
+    "Attack": "1"
   }
 }
