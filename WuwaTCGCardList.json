@@ -2098,5 +2098,68 @@
     "Color": "Red",
     "Speed": "5",
     "Attack": "1"
+  },  
+  "Crownless_BP01-041": {
+    "id": "Crownless_BP01-041",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Action",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-041.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Crownless_BP01-041",
+    "type": "Action",
+    "cost": 0,
+    "Level": "",
+    "Cost": "1",
+    "Color": "Red",
+    "Speed": "5",
+    "Attack": "2"
+  },  
+  "Cruisewing_BP01-042": {
+    "id": "Cruisewing_BP01-042",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Action",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-042.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cruisewing_BP01-042",
+    "type": "Action",
+    "cost": 0,
+    "Level": "",
+    "Cost": "0",
+    "Color": "Red",
+    "Speed": "5",
+    "Attack": "1"
+  },  
+  "Mourning Aix_BP01-043": {
+    "id": "Mourning Aix_BP01-043",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Action",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-043.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mourning Aix_BP01-043",
+    "type": "Action",
+    "cost": 0,
+    "Level": "",
+    "Cost": "1",
+    "Color": "Red",
+    "Speed": "5",
+    "Attack": "2"
   }
 }
