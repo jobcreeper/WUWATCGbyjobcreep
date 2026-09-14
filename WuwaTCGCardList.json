@@ -1960,7 +1960,7 @@
         "name": "",
         "type": "Action",
         "cost": 0,
-        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-034.jpg",
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-034_2.jpg",
         "isHorizontal": false
       }
     },
@@ -1981,7 +1981,7 @@
         "name": "",
         "type": "Action",
         "cost": 0,
-        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-035.jpg",
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-035_2.jpg",
         "isHorizontal": false
       }
     },
@@ -2002,7 +2002,7 @@
         "name": "",
         "type": "Action",
         "cost": 0,
-        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-036.jpg",
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-036_2.jpg",
         "isHorizontal": false
       }
     },
@@ -2023,7 +2023,7 @@
         "name": "",
         "type": "Action",
         "cost": 0,
-        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-037.jpg",
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-037_2.jpg",
         "isHorizontal": false
       }
     },
@@ -2044,7 +2044,7 @@
         "name": "",
         "type": "Action",
         "cost": 0,
-        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-038.jpg",
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-038_2.jpg",
         "isHorizontal": false
       }
     },
@@ -2065,7 +2065,7 @@
         "name": "",
         "type": "Action",
         "cost": 0,
-        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-039.jpg",
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-039_2.jpg",
         "isHorizontal": false
       }
     },
@@ -2086,7 +2086,7 @@
         "name": "",
         "type": "Action",
         "cost": 0,
-        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-040.jpg",
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-040_2.jpg",
         "isHorizontal": false
       }
     },
@@ -2107,7 +2107,7 @@
         "name": "",
         "type": "Action",
         "cost": 0,
-        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-041.jpg",
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-041_2.jpg",
         "isHorizontal": false
       }
     },
@@ -2128,7 +2128,7 @@
         "name": "",
         "type": "Action",
         "cost": 0,
-        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-042.jpg",
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-042_2.jpg",
         "isHorizontal": false
       }
     },
@@ -2149,7 +2149,7 @@
         "name": "",
         "type": "Action",
         "cost": 0,
-        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-043.jpg",
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-043_2.jpg",
         "isHorizontal": false
       }
     },
@@ -2161,5 +2161,68 @@
     "Color": "Red",
     "Speed": "5",
     "Attack": "2"
+  },  
+  "Camellya_BP01-044": {
+    "id": "Camellya_BP01-044",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Action",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-044_2.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Camellya_BP01-044",
+    "type": "Action",
+    "cost": 0,
+    "Level": "",
+    "Cost": "0",
+    "Color": "Red",
+    "Speed": "8",
+    "Attack": "1"
+  },  
+  "Camellya_BP01-045": {
+    "id": "Camellya_BP01-045",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Action",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-045_2.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Camellya_BP01-045",
+    "type": "Action",
+    "cost": 0,
+    "Level": "",
+    "Cost": "0",
+    "Color": "Blue",
+    "Speed": "",
+    "Attack": "3"
+  },  
+  "Camellya_BP01-047": {
+    "id": "Camellya_BP01-047",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Action",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-047_2.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Camellya_BP01-047",
+    "type": "Action",
+    "cost": 0,
+    "Level": "",
+    "Cost": "0",
+    "Color": "Red",
+    "Speed": "6",
+    "Attack": "1"
   }
 }
