@@ -1951,5 +1951,47 @@
     "Color": "",
     "Speed": "",
     "Attack": ""
+  },  
+  "Traffic Illuminator_BP01-034": {
+    "id": "Traffic Illuminator_BP01-034",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Action",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-034.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Traffic Illuminator_BP01-034",
+    "type": "Action",
+    "cost": 0,
+    "Level": "",
+    "Cost": "0",
+    "Color": "Red",
+    "Speed": "5",
+    "Attack": "1"
+  },  
+  "Inferno Rider_BP01-035": {
+    "id": "Inferno Rider_BP01-035",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Action",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-035.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Inferno Rider_BP01-035",
+    "type": "Action",
+    "cost": 0,
+    "Level": "",
+    "Cost": "1",
+    "Color": "Red",
+    "Speed": "5",
+    "Attack": "2"
   }
 }
