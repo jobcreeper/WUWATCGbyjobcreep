@@ -1196,19 +1196,19 @@
     "Speed": "0",
     "Attack": "3"
   },  
-  "RoverF_A0R3": {
-    "id": "RoverF_A0R3",
+  "RoverF_BP01-066": {
+    "id": "RoverF_BP01-066",
     "isToken": false,
     "face": {
       "front": {
         "name": "",
         "type": "Action",
         "cost": 0,
-        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/RoverF_A0R3.jpg",
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-066.jpg",
         "isHorizontal": false
       }
     },
-    "name": "RoverF_A0R3",
+    "name": "RoverF_BP01-066",
     "type": "Action",
     "cost": 0,
     "Level": "",
@@ -2321,7 +2321,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Encore_BP01-060",
+    "name": "Encore_BP01-064",
     "type": "Action",
     "cost": 0,
     "Level": "",
@@ -2373,7 +2373,7 @@
     "Attack": "1"
   },  
   "RoverM_BP01-068": {
-    "id": "RoverF_BP01-068",
+    "id": "RoverM_BP01-068",
     "isToken": false,
     "face": {
       "front": {
@@ -2384,7 +2384,7 @@
         "isHorizontal": false
       }
     },
-    "name": "RoverF_BP01-068",
+    "name": "RoverM_BP01-068",
     "type": "Action",
     "cost": 0,
     "Level": "",
