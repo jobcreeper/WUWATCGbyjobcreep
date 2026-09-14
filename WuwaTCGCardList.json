@@ -2224,5 +2224,320 @@
     "Color": "Red",
     "Speed": "6",
     "Attack": "1"
+  },  
+  "Camellya_BP01-051": {
+    "id": "Camellya_BP01-051",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Action",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-051_2.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Camellya_BP01-051",
+    "type": "Action",
+    "cost": 0,
+    "Level": "",
+    "Cost": "0",
+    "Color": "Red",
+    "Speed": "6",
+    "Attack": "1"
+  },  
+  "Shorekeeper_BP01-052": {
+    "id": "Shorekeeper_BP01-052",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Action",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-052_2.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shorekeeper_BP01-052",
+    "type": "Action",
+    "cost": 0,
+    "Level": "",
+    "Cost": "0",
+    "Color": "Red",
+    "Speed": "5",
+    "Attack": "1"
+  },  
+  "Shorekeeper_BP01-055": {
+    "id": "Shorekeeper_BP01-055",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Action",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-055_2.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shorekeeper_BP01-055",
+    "type": "Action",
+    "cost": 0,
+    "Level": "",
+    "Cost": "0",
+    "Color": "Red",
+    "Speed": "3",
+    "Attack": "1"
+  },  
+  "Encore_BP01-060": {
+    "id": "Encore_BP01-060",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Action",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-060_2.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Encore_BP01-060",
+    "type": "Action",
+    "cost": 0,
+    "Level": "",
+    "Cost": "0",
+    "Color": "Red",
+    "Speed": "3",
+    "Attack": "1"
+  },  
+  "Encore_BP01-064": {
+    "id": "Encore_BP01-064",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Action",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-064_2.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Encore_BP01-060",
+    "type": "Action",
+    "cost": 0,
+    "Level": "",
+    "Cost": "0",
+    "Color": "Blue",
+    "Speed": "",
+    "Attack": "3"
+  },  
+  "RoverF_BP01-065": {
+    "id": "RoverF_BP01-065",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Action",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-065_2.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "RoverF_BP01-065",
+    "type": "Action",
+    "cost": 0,
+    "Level": "",
+    "Cost": "0",
+    "Color": "Red",
+    "Speed": "6",
+    "Attack": "1"
+  },  
+  "RoverM_BP01-067": {
+    "id": "RoverM_BP01-067",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Action",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-067_2.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "RoverM_BP01-067",
+    "type": "Action",
+    "cost": 0,
+    "Level": "",
+    "Cost": "0",
+    "Color": "Red",
+    "Speed": "6",
+    "Attack": "1"
+  },  
+  "RoverM_BP01-068": {
+    "id": "RoverF_BP01-068",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Action",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-068_2.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "RoverF_BP01-068",
+    "type": "Action",
+    "cost": 0,
+    "Level": "",
+    "Cost": "0",
+    "Color": "Red",
+    "Speed": "6",
+    "Attack": "1"
+  },  
+  "Yangyang_BP01-069": {
+    "id": "Yangyang_BP01-069",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Action",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-069_2.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Yangyang_BP01-069",
+    "type": "Action",
+    "cost": 0,
+    "Level": "",
+    "Cost": "0",
+    "Color": "Blue",
+    "Speed": "",
+    "Attack": "0"
+  },  
+  "Yangyang_BP01-071": {
+    "id": "Yangyang_BP01-071",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Action",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-071_2.jpg",
+        "isHorizontal": false
+      }
+    },  
+    "name": "Yangyang_BP01-071",
+    "type": "Action",
+    "cost": 0,
+    "Level": "",
+    "Cost": "0",
+    "Color": "Red",
+    "Speed": "6",
+    "Attack": "1"
+  },
+  "Jinshi_BP01-075": {
+    "id": "Jinshi_BP01-075",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Action",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-069_2.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jinshi_BP01-075",
+    "type": "Action",
+    "cost": 0,
+    "Level": "",
+    "Cost": "0",
+    "Color": "Red",
+    "Speed": "5",
+    "Attack": "1"
+  },
+  "Sanhua_BP01-077": {
+    "id": "Sanhua_BP01-077",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Action",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-077_2.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sanhua_BP01-077",
+    "type": "Action",
+    "cost": 0,
+    "Level": "",
+    "Cost": "1",
+    "Color": "Red",
+    "Speed": "11",
+    "Attack": "2"
+  },
+  "Shorekeeper_BP01-056": {
+    "id": "Shorekeeper_BP01-056",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Action",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-056_2.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shorekeeper_BP01-056",
+    "type": "Action",
+    "cost": 0,
+    "Level": "",
+    "Cost": "1",
+    "Color": "Red",
+    "Speed": "11",
+    "Attack": "1"
+  },
+  "RoverF_BP01-017": {
+    "id": "RoverF_BP01-017",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-017_2.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "RoverF_BP01-017",
+    "type": "Character",
+    "cost": 0,
+    "Level": 1,
+    "Cost": "",
+    "Color": "",
+    "Speed": "",
+    "Attack": ""
+  },
+  "RoverM_BP01-020": {
+    "id": "RoverM_BP01-020",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "Character",
+        "cost": 0,
+        "image": "https://jobcreeper.github.io/WUWATCGbyjobcreep/CardPic/BP01-020_2.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "RoverM_BP01-020",
+    "type": "Character",
+    "cost": 0,
+    "Level": 1,
+    "Cost": "",
+    "Color": "",
+    "Speed": "",
+    "Attack": ""
   }
 }
